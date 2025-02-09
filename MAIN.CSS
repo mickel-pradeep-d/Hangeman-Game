@@ -1,0 +1,15 @@
+body{
+    background-image:url("CV.jpg");
+    background-size: cover;
+    height:fit-content ;
+    background-repeat: no-repeat;
+    background-color: hwb(0 54% 45%);
+}
+#bottom {
+    position:fixed;
+    font-size:smaller;
+    bottom:0;
+    right:28%;
+    text-align: center;
+    color: goldenrod;
+}
